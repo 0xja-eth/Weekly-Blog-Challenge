@@ -67,7 +67,7 @@ contract Delegation {
 
 ![image.png](image.png)
 
-![image.png](image 1.png)
+![image.png](image_1.png)
 
 复制智能合约的 ABI 和地址，比如我的地址是：`0x7110D0E2fcdD241837A3876EE35b2dCf71a0F048`
 
@@ -215,19 +215,19 @@ contract Delegation {
 
 执行 `npm run start` 启动，如果一切顺利，控制台将会输出一个交易链接，点击即可打开区块链浏览器查看交易具体信息：
 
-![image.png](image 2.png)
+![image.png](image_2.png)
 
 这是我的交易：[https://sepolia.etherscan.io/tx/0x5d4cf8b2d6031f51ac86aaf292fc620ee02a5b1fc3209e42fbe8ee706b5b50d7](https://sepolia.etherscan.io/tx/0x5d4cf8b2d6031f51ac86aaf292fc620ee02a5b1fc3209e42fbe8ee706b5b50d7)
 
-![image.png](image 3.png)
+![image.png](image_3.png)
 
-![image.png](image 4.png)
+![image.png](image_4.png)
 
 其中，这里的 `0x124b…53F3` 是我的 Relayer 钱包，`0x34b2….489E` 是我的 User 钱包，他们都是 EOA 钱包。但是 Relayer 通过调用 User，成功让他输出了一个 `Hello, world!` 的 `Log` 事件！和调用智能合约一样！
 
 另外，根据我上一篇文章（[第三篇：AI 工作流工具 —— n8n 学习笔记：链上交易查询节点搭建](https://www.notion.so/AI-n8n-1fc48ee5ba8d80d6ad7bc783782555f8?pvs=21) ）实现的交易分析工作流，也可以分析出来这是一个 EIP-7702 的交易 😎（两篇文章这就连起来了）
 
-![image.png](image 5.png)
+![image.png](image_5.png)
 
 ## 5. 代码分析
 
