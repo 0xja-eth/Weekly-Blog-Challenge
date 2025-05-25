@@ -349,5 +349,3 @@ EIP-7702 的出现为以太坊账户体系带来了突破性的变化。它打�
 1. OKX研究院 | 账户抽象10年演进终局之战，透过EIP-7702看过去与未来：[https://mp.weixin.qq.com/s/zahI4PUuWQBdCXq0doByMw](https://mp.weixin.qq.com/s/zahI4PUuWQBdCXq0doByMw)
 2. 以太坊 - EIP-7702 介绍：[https://zhuanlan.zhihu.com/p/1897389746663187513](https://zhuanlan.zhihu.com/p/1897389746663187513)
 3. Contract Writes with EIP-7702：[https://viem.sh/docs/eip7702/contract-writes](https://viem.sh/docs/eip7702/contract-writes)
-
-第五篇，完🎉
