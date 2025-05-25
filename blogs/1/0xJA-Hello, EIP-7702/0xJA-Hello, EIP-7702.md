@@ -1,4 +1,4 @@
-# 第四篇：Hello, EIP-7702
+# Hello, EIP-7702
 
 # 0x00 前言
 
